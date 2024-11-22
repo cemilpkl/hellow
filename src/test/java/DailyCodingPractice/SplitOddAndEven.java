@@ -26,6 +26,9 @@ public class SplitOddAndEven {
         System.out.println("Even numbers: "+evenNumbers);
         System.out.println("Even numbers: "+oddNumbers);
         System.out.println("Cemil Pekel");
+        System.out.println("This is my master branch" );
+        System.out.println("This is my master branch" );
+        System.out.println("This is my master branch" );
 
 
 
